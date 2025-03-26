@@ -11,10 +11,10 @@ Meu principal foco esse projeto foi relembrar os principais e mais importantes c
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ⚛️ **React** — Biblioteca para construção de interfaces
-- 💅 **CSS Modules** — Estilização baseada em escopos
+- 🎨  **CSS Modules** — Estilização baseada em escopos
 - 🌍 **phosphor-react** — Biblioteca de ícones voltada para React
 - 🔥 **date-fns** — Biblioteca para lidar com datas
 - 📦 **typescript** — Tipagem estática no React
 
-## 📸 Demonstração  
-Adicione aqui imagens ou GIFs mostrando o funcionamento do projeto.
+## 📸 Demonstração
+![image](https://github.com/user-attachments/assets/50d02080-132b-4ef5-a06a-59a4b83dff99)
