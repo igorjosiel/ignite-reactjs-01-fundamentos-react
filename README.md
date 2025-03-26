@@ -1,38 +1,20 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# 🚀 Ignite fundamentos React
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+![Badge do React](https://img.shields.io/badge/React-18.2.0-blue.svg) ![Badge do Node](https://img.shields.io/badge/Node.js-18.0.0-green.svg)
 
+> Projeto desenvolvido em React para praticar criação de um SPA, criação de componentes, definição de propriedades, estilização com CSS Modules, entre outras coisas.
 
-## 💻 Projeto
+## 🎯 Objetivo do Projeto
+Meu principal foco esse projeto foi relembrar os principais e mais importantes conceitos de um SPA utilizando React como biblioteca para a criação da interface.
 
-ignite-reactjs-01-fundamentos-react
+## 🛠️ Tecnologias Utilizadas
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## 📝 Licença
+- ⚛️ **React** — Biblioteca para construção de interfaces
+- 💅 **CSS Modules** — Estilização baseada em escopos
+- 🌍 **phosphor-react** — Biblioteca de ícones voltada para React
+- 🔥 **date-fns** — Biblioteca para lidar com datas
+- 📦 **typescript** — Tipagem estática no React
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+## 📸 Demonstração  
+Adicione aqui imagens ou GIFs mostrando o funcionamento do projeto.
