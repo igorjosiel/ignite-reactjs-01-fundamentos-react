@@ -23,26 +23,30 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂 Estrutura do Projeto
 
+<small>
+
 # 📦 ignite-reactjs-01-fundamentos-react
-# ├── 📂 src
-# │   ├── 📂 components  # Componentes reutilizáveis
-# │   │   ├── 📂 Component   # Uma pasta com essa estrutura para cada componente
-# │   │   │   ├── index.tsx
-# │   │   │   ├── Component.module.css
-# │   │   │   ├── Component.types.ts  # Quando houver arquivo de tipo
-# │   ├── 📂 assets      # Imagens
-# │   ├── App.module.css
-# │   ├── App.tsx
-# │   ├── global.css
-# │   ├── main.tsx
-# ├── .gitignore
-# ├── package.json
-# ├── package-lock.json
-# ├── README.md
-# ├── index.html
-# ├── tsconfig.json
-# ├── tsconfig.node.json
-# ├── vite.config.ts
+├── 📂 src
+│   ├── 📂 components  # Componentes reutilizáveis
+│   │   ├── 📂 Component   # Uma pasta com essa estrutura para cada componente
+│   │   │   ├── index.tsx
+│   │   │   ├── Component.module.css
+│   │   │   ├── Component.types.ts  # Quando houver arquivo de tipo
+│   ├── 📂 assets      # Imagens
+│   ├── App.module.css
+│   ├── App.tsx
+│   ├── global.css
+│   ├── main.tsx
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── README.md
+├── index.html
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+
+</small>
 
 ## 🛠️ Funcionalidades
 # ✅ Funcionalidade 1 – Inserir comentários
