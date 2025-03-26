@@ -18,6 +18,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Demonstração
 ![image](https://github.com/user-attachments/assets/50d02080-132b-4ef5-a06a-59a4b83dff99)
-<img width="172" alt="image" src="https://github.com/user-attachments/assets/6c5efe61-9765-4b7f-92b8-bd89f4f2028d" />
-![image](https://github.com/user-attachments/assets/9109b3aa-4c6f-4ef8-8a8c-df3613a7372f)
-
+![image](https://github.com/user-attachments/assets/4503835b-ab9c-4a2f-8ffe-392342c621d2)
