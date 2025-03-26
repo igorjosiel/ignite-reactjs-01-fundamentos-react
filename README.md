@@ -23,17 +23,17 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂 Estrutura do Projeto
 
-## 📂 src
-- 📂 components  # Componentes reutilizáveis
-  - 📂 Component   # Uma pasta com essa estrutura para cada componente
-    - index.tsx
-    - Component.module.css
-    - Component.types.ts  # Quando houver arquivo de tipo
-- 📂 assets      # Imagens
-- App.module.css
-- App.tsx
-- global.css
-- main.tsx
+- 📂 src
+  - 📂 components  # Componentes reutilizáveis
+    - 📂 Component   # Uma pasta com essa estrutura para cada componente
+      - index.tsx
+      - Component.module.css
+      - Component.types.ts  # Quando houver arquivo de tipo
+  - 📂 assets      # Imagens
+  - App.module.css
+  - App.tsx
+  - global.css
+  - main.tsx
 
 ## 📄 Arquivos principais
 - .gitignore
@@ -46,5 +46,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - vite.config.ts
 
 ## 🛠️ Funcionalidades
-# ✅ Funcionalidade 1 – Inserir comentários
-# ✅ Funcionalidade 2 – Dar like nos comentários
+✅ Funcionalidade 1 – Inserir comentários
+✅ Funcionalidade 2 – Dar like nos comentários
